@@ -1,0 +1,27 @@
+{
+  "name": "randomwalk-java-assessment-level2",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "This project aims to provide voting system where users can create polls and distribute ten votes among candidates as per the preference and the system ensures fairness handles vote validation and calculates results efficiently it uses backend and api along with demonstration setupa dn testing.",
+  "main": "testt.js",
+  "scripts": {
+    "start": "node testt.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Swapna27-08/randomwalk-java-assessment-level2.git"
+  },
+  "keywords": [
+    "voting",
+    "candidate"
+  ],
+  "author": "Akshara Sudulagunta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Swapna27-08/randomwalk-java-assessment-level2/issues"
+  },
+  "homepage": "https://github.com/Swapna27-08/randomwalk-java-assessment-level2#readme",
+  "dependencies": {
+    "axios": "^1.7.9"
+  }
+}
